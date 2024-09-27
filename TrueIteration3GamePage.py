@@ -347,7 +347,6 @@ def main():
         messagebox.showinfo(title="Success", message="Game completed successfully!")
         window.destroy()
         from TrueIteration3MainPage import mainloop
-        main()
         
 
 
